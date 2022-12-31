@@ -1,1 +1,2 @@
-alpha gamma
+alpha gamma Hello Hi Good Evening
+This is a new beta text file.
